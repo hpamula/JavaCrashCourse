@@ -14,5 +14,5 @@ Autohotkey makes it possible to compile and run java:
 You can change shortcuts by editing `.ahk` text files.
 
 Issues:
-<br>It shouldn't be too troublesome for simple snippets, but:<b>
+<br>It shouldn't be too troublesome for simple snippets, but:<br>
 Python creates separate files for every public class, interface or record, but separates them by beginnings of their declaration, which makes all imports under first public class/interface/record don't work for classes below. To completely avoid it use only one public class/interface/record or improve Python codes:)
