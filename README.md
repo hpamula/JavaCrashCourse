@@ -14,5 +14,5 @@ You can change shortcuts by editing `.ahk` text files.
 
 
 Issues:
-It shouldn't be too troublesome for simple snippets, but:
+<b>It shouldn't be too troublesome for simple snippets, but:<b>
 Python creates separate files for every public class, interface or record, but separates them by beginnings of their declaration, which makes all imports under first public class/interface/record don't work for classes below. To completely avoid it use only one public class/interface/record or improve Python codes:)
