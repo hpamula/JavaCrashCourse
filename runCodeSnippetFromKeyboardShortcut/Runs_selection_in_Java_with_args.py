@@ -12,7 +12,7 @@ import subprocess
 import os
 import math
 
-directory_path = "H:\\Obsidian\\Current\\Utilities\\cache"
+directory_path = os.getcwd()
 os.chdir(directory_path)
 powershell_command = f"rm *"
 print(powershell_command)
