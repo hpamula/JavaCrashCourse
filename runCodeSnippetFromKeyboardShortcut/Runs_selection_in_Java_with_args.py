@@ -14,7 +14,7 @@ import math
 
 directory_path = os.getcwd()
 os.chdir(directory_path)
-powershell_command = f"rm *"
+powershell_command = f"rm *.java; rm *.class"
 print(powershell_command)
 subprocess.run(["powershell", powershell_command], check=True)
 
