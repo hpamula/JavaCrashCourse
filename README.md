@@ -11,3 +11,7 @@ There is also helper functionality of quickly running code snippets implemented 
 - with arguments with `ctrl+shift+i` shortcut
 <br>To use it select or copy code snippet and then press keyboard shortcut.
 You can change shortcuts by editing `.ahk` text files.
+
+
+Issues:
+Python creates separate files for every public class, interface or record, but separates them by beginnings of their declaration, which makes all imports under first public class don't work for classes below.
