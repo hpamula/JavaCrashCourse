@@ -2,7 +2,7 @@
 
 Just open JavaCrashCourse.md file in any markdown editor (github works as well).
 There is also helper functionality of quickly running code snippets implemented in `runSnippetFromKeyboardShortcut` directory. To use it you have to:
-- download that directort
+- download that directory
 - have JDK installed with `java` and `javac` added to PATH
 - on Windows download autohotkey from https://www.autohotkey.com/
 - on other OS write script which triggers Python codes inside directory with e. g. keyboard shortcut
