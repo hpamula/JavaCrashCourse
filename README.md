@@ -6,7 +6,8 @@ There is also helper functionality of quickly running code snippets implemented 
 - have JDK installed with `java` and `javac` added to PATH
 - on Windows download autohotkey from https://www.autohotkey.com/
 - on other OS write script which triggers Python codes inside directory with e. g. keyboard shortcut
-<br><br>Autohotkey makes it possible to compile and run java:
+<br><br>
+Autohotkey makes it possible to compile and run java:
 - without arguments with `ctrl+shift+j` shortcut
 - with arguments with `ctrl+shift+i` shortcut
 <br>To use it select or copy code snippet and then press keyboard shortcut.
